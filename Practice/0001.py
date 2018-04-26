@@ -1,5 +1,6 @@
+#!/usr/local/bin/python
 # coding = utf-8
-__author__ = 'forec'
+
 import random
 
 def make_number( num, length ):
